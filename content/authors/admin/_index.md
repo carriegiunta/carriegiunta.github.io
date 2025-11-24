@@ -63,14 +63,7 @@ education:
       Thesis on _A Question of Listening: Nancean Listening and Resonance in the Work of Charlie Chaplin_. Supervised by Prof. James Williams. 
     button:
       text: ''
-      url: ''
-  - area: 
-    institution: 
-    icon: ""
-    date_start: 
-    date_end: 
-    summary: |
-      GPA: 
+      url: '' 
 
 
 
