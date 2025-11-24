@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Carrie Giunta
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Carrie
+last_name: Giunta
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Associate Lecturer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of the Arts London
+    url: https://arts.ac.uk
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,19 +48,19 @@ profiles:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Philosophy
+  - Cinema
+  - Sound Design
+  - Language
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Philosophy
+    institution: University of Dundee
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 
+    date_end: 2013
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _A Question of Listening: Nancean Listening and Resonance in the Work of Charlie Chaplin_. Supervised by Prof. James Williams. 
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
