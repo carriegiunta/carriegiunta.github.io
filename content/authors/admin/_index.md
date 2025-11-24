@@ -44,7 +44,7 @@ profiles:
     url:
   - icon:
     url:
- - icon: academicons/orcid
+  - icon: academicons/orcid
     url: https://orcid.org/0000-0003-1176-3153
 
 interests:
