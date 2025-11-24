@@ -14,7 +14,7 @@ pronouns: she/her
 
 # Status emoji
 status:
-  icon: 
+  icon: (╭ರ_•́)
 
 # Is this the primary user of the site?
 superuser: true
@@ -34,18 +34,18 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:carrie.giunta@protonmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  - icon:
+    url:
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://github.com/carriegiunta
+  - icon:
+    url:
+  - icon:
+    url:
+ - icon: academicons/orcid
+    url: https://orcid.org/0000-0003-1176-3153
 
 interests:
   - Philosophy
@@ -62,26 +62,17 @@ education:
     summary: |
       Thesis on _A Question of Listening: Nancean Listening and Resonance in the Work of Charlie Chaplin_. Supervised by Prof. James Williams. 
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      text: ''
+      url: ''
+  - area: 
+    institution: 
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 
+    date_end: 
     summary: |
-      GPA: 4.0/4.0
+      GPA: 
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
 
-      Minored in Mathematics. President of AI Club.
 
 work:
   - position: Senior AI Research Scientist
