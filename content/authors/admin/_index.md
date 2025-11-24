@@ -160,4 +160,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Carrie Giunta is an associate lecturer at the University of the Arts London (UAL). She teaches Philosophy at Central Saint Martins, UAL on the MRes Art: Theory and Philosophy course, and on the BA Sound Arts course at London College of Communications,UAL. She holds a doctorate in Philosophy from the University of Dundee. In 2016, Carrie co-edited the book Nancy and Visual Culture (Edinburgh University Press). She is a member of the Society for Women in Philosophy UK, the Society for Women in Philosophy Italia and the Society for French Studies. Her forthcoming publications include an essay in the edited volume Nancynéma, published by UGA Éditions.
+
+Between 1995 and 2009 Carrie worked in cinema as a sound editor and was part of the BAFTA-winning sound team on Casino Royale. For film credits, see imdb.com.
