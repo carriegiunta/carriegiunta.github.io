@@ -36,16 +36,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:carrie.giunta@protonmail.com'
     label: E-mail Me
-  - icon:
-    url:
-  - icon: brands/github
-    url: https://github.com/carriegiunta
-  - icon:
-    url:
-  - icon:
-    url:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-1176-3153
+  - icon: brands/github
+    url: https://github.com/carriegiunta
+  - icon: telegram
+    url: https://t.me/carriegiunta
+  - icon: "custom/researchgate"
+    url: https://www.researchgate.net/profile/Carrie-Giunta
+  - icon: 
+    url: 
 
 interests:
   - Philosophy
