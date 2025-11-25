@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Carrie Giunta
+title: Dr Carrie Giunta
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -14,7 +14,7 @@ pronouns: she/her
 
 # Status emoji
 status:
-  icon: "(╭ರ_•́)"
+  icon: "╭ರ_•́"
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,6 +24,8 @@ highlight_name: true
 
 # Role/position/tagline
 role: Associate Lecturer
+  MRes Art: Theory and Philosophy
+  Central Saint Martins
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
