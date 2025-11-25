@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Carrie Giunta
+title: Carrie Giunta
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -14,7 +14,7 @@ pronouns: she/her
 
 # Status emoji
 status:
-  icon: "╭ರ_•́"
+  icon: ""
 
 # Is this the primary user of the site?
 superuser: true
