@@ -39,7 +39,7 @@ profiles:
     label: E-mail Me
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-1176-3153
-  - icon: telegram
+  - icon: brands/telegram
     url: https://t.me/carriegiunta
 
 education:
