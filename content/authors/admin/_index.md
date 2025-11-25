@@ -41,9 +41,9 @@ profiles:
     url: https://orcid.org/0000-0003-1176-3153
   - icon: brands/github
     url: https://github.com/carriegiunta
-  - icon: telegram
+  - icon: "custom/telegram"
     url: https://t.me/carriegiunta
-  - icon: "custom/researchgate"
+  - icon: "custom/researchgate2"
     url: https://www.researchgate.net/profile/Carrie-Giunta
 
 interests:
