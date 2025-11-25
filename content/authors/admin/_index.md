@@ -44,8 +44,6 @@ profiles:
     url: https://t.me/carriegiunta
   - icon: "custom/researchgate"
     url: https://www.researchgate.net/profile/Carrie-Giunta
-  - icon: 
-    url: 
 
 interests:
   - Philosophy
@@ -72,7 +70,7 @@ work:
     icon: ''
     date_start: 2020-01-01
     date_end: ''
-    summary: |2-
+    summary: |
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
   - position: AI Research Intern
     company_name: OpenAI
@@ -128,5 +126,4 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
-    summary: |
-      ---Carrie Giunta is an associate lecturer at the University of the Arts London (UAL). She teaches Philosophy at Central Saint Martins, UAL on the MRes Art: Theory and Philosophy course, and on the BA Sound Arts course at London College of Communications,UAL. She holds a doctorate in Philosophy from the University of Dundee. In 2016, Carrie co-edited the book Nancy and Visual Culture (Edinburgh University Press). She is a member of the Society for Women in Philosophy UK, the Society for Women in Philosophy Italia and the Society for French Studies. Her forthcoming publications include an essay in the edited volume Nancynéma, published by UGA Éditions. Between 1995 and 2009 Carrie worked in cinema as a sound editor and was part of the BAFTA-winning sound team on Casino Royale. For film credits, see imdb.com.
+---
