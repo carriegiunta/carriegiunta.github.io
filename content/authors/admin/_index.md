@@ -42,9 +42,6 @@ profiles:
   - icon: telegram
     url: https://t.me/carriegiunta
 
-interests:
-  - 
-
 education:
   - area: PhD Philosophy
     institution: University of Dundee
