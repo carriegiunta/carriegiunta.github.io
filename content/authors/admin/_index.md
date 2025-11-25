@@ -46,7 +46,7 @@ education:
   - area: PhD Philosophy
     institution: University of Dundee
     icon: ""
-    date_start: 
+    date_start: 2010
     date_end: 2013
     summary: |
       Thesis on _A Question of Listening: Nancean Listening and Resonance in the Work of Charlie Chaplin_. Supervised by Prof. James Williams. 
@@ -118,3 +118,4 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 ---
+Carrie Giunta is an associate lecturer at the University of the Arts London (UAL). She teaches Philosophy at Central Saint Martins, UAL on the MRes Art: Theory and Philosophy course, and on the BA Sound Arts course at London College of Communications,UAL. She holds a doctorate in Philosophy from the University of Dundee. In 2016, Carrie co-edited the book Nancy and Visual Culture (Edinburgh University Press). She is a member of the Society for Women in Philosophy UK, the Society for Women in Philosophy Italia and the Society for French Studies. Her forthcoming publications include an essay in the edited volume Nancynéma, published by UGA Éditions. Between 1995 and 2009 Carrie worked in cinema as a sound editor and was part of the BAFTA-winning sound team on Casino Royale. For film credits, see imdb.com.
