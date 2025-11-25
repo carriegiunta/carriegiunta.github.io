@@ -43,10 +43,7 @@ profiles:
     url: https://t.me/carriegiunta
 
 interests:
-  - Philosophy
-  - Cinema
-  - Sound Design
-  - Language
+  - 
 
 education:
   - area: PhD Philosophy
