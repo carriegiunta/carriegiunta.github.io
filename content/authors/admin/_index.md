@@ -24,10 +24,10 @@ highlight_name: true
 
 # Role/position/tagline
 role: Associate Lecturer
-Central Saint Martins
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: Central Saint Martins
   - name: University of the Arts London
     url: https://arts.ac.uk
 
