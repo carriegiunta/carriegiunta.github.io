@@ -65,8 +65,6 @@ education:
       text: ''
       url: '' 
 
-
-
 work:
   - position: Senior AI Research Scientist
     company_name: Meta AI
