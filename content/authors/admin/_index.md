@@ -24,8 +24,7 @@ highlight_name: true
 
 # Role/position/tagline
 role: Associate Lecturer
-MRes Art: Theory and Philosophy
-Central Saint Martins
+MRes Art: Theory and Philosophy course at Central Saint Martins
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
