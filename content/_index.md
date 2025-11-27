@@ -48,7 +48,6 @@ sections:
         subtitle: "Doctorate"
         subtitle: "Casino Royale"
         subtitle: "Berlinale Talent Campus"
-    
     design:
       columns: "1"
       background:
