@@ -23,7 +23,7 @@ sections:
         interests: ''
     design:
       # Apply a gradient background
-      css_class: light
+      css_class: blue-text
       background:
         color: white
       # Avatar customization
