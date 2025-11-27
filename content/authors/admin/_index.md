@@ -41,7 +41,9 @@ profiles:
     url: https://orcid.org/0000-0003-1176-3153
   - icon: brands/telegram
     url: https://t.me/carriegiunta
-
+button:
+        text: Request a CV
+        url: mailto:carrie.giunta@protonmail.com
 education:
   - area: PhD Philosophy
     institution: University of Dundee
