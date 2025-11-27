@@ -40,7 +40,7 @@ sections:
            - [MRes Art: Theory and Philosophy] (https://www.arts.ac.uk/subjects/curation-and-culture/postgraduate/mres-art-theory-and-philosophy-csm)
         External Lecturer      
         - [South, West and Wales Doctoral Training Partnership] (https://www.sww-ahdtp.ac.uk/about/about-swwdtp/)
-        [Learn more](https://www.arts.ac.uk/colleges/central-saint-martins/people/carrie-giunta)
+        [Learn more]()
         subtitle: "Visiting Researcher"
         - University of Palermo Humanities Department, Italy
         - University of Urbino Humanities Department, Italy
