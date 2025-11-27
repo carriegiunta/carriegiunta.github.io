@@ -20,7 +20,6 @@ sections:
         url: mailto:carrie.giunta@protonmail.com
       headings:
         about: ''
-        education: ''
         interests: ''
     design:
       # Apply a gradient background
