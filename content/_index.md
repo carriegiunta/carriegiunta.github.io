@@ -30,6 +30,25 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+    
+  - block: markdown
+    content:
+      title: "About This Section"
+      subtitle: "More details below"
+      text: |
+        ## Welcome
+        
+        This is **markdown content** that you can edit.
+        
+        - Create lists
+        - Add links
+        - Format text
+        
+        [Learn more](https://example.com)
+    design:
+      columns: "1"
+      background:
+        color: "white"
 
   - block: collection
     id: publications
