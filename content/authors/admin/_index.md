@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Carrie Giunta
-font_size: L
+font_size: M
 # Name pronunciation (optional)
 name_pronunciation: ''
 
