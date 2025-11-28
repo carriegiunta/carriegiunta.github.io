@@ -25,17 +25,6 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content: ""
-    title: "Highlights"
-    subtitle: "Current role: Associate Lecturer"
-      - name: MRes Art: Theory and Philosophy
-        url:
-      - name: "South, West and Wales Doctoral Training Partnership"
-        url:  
-    subtitle: "Visiting Researcher"
-      - name: University of Palermo Humanities Department, Italy
-      - name: University of Urbino Humanities Department, Italy
 
   - block: collection
     id: publications
