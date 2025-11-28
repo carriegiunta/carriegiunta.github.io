@@ -11,7 +11,6 @@ sections:
   - block: resume-biography-3
     content:
       username: admin
-      icon: ""
       title: "About Me"
       subtitle: ""
       text: |
