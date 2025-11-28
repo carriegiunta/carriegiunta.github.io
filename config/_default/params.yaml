@@ -26,6 +26,10 @@ marketing:
     google: ''
     baidu: ''
 
+theme_day: forest
+theme_night: forest
+font: quicksand
+
 # Site header
 header:
   navbar:
