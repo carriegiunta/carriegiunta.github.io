@@ -36,13 +36,15 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:carrie.giunta@protonmail.com'
-    label: E-mail Me
+    label: E-mail
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-1176-3153
+    label: Orcid
   - icon: brands/telegram
     url: https://t.me/carriegiunta
+    label: Telegram
 button:
-        text: Request a CV
+        text: Request a full CV
         url: mailto:carrie.giunta@protonmail.com
 work:
   - position: 
@@ -51,13 +53,5 @@ work:
     icon: false
     date_start: 
     date_end: ''
-    summary:
-      
-  - position: 
-    company_name: 
-    company_url: 
-    icon: ''
-    date_start: 
-    date_end: 
     summary:
 ---
