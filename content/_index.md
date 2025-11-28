@@ -28,14 +28,11 @@ sections:
   - block: markdown
     content: ""
     title: "Highlights"
-    subtitle: "Current role"
-    text:
-      Associate Lecturer        
-        - name: MRes Art: Theory and Philosophy
-        url: https://www.arts.ac.uk/subjects/curation-and-culture/postgraduate/mres-art-theory-and-philosophy-csm
-      External Lecturer      
-        - name: South, West and Wales Doctoral Training Partnership
-        url: https://www.sww-ahdtp.ac.uk/about/about-swwdtp/
+    subtitle: "Current role: Associate Lecturer"
+      - name: MRes Art: Theory and Philosophy
+        url:
+      - name: "South, West and Wales Doctoral Training Partnership"
+        url:  
     subtitle: "Visiting Researcher"
       - name: University of Palermo Humanities Department, Italy
       - name: University of Urbino Humanities Department, Italy
