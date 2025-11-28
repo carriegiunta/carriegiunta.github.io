@@ -51,7 +51,7 @@ work:
     icon: false
     date_start: 
     date_end: ''
-    summary: |
+    summary:
       
   - position: 
     company_name: 
@@ -59,5 +59,5 @@ work:
     icon: ''
     date_start: 
     date_end: 
-    summary: |
+    summary:
 ---
