@@ -7,6 +7,9 @@
 appearance:
   mode: system
   color: #00008b
+  theme_day: forest
+  theme_night: forest
+  font: quicksand
 
 # SEO
 marketing:
@@ -25,10 +28,6 @@ marketing:
   verification:
     google: ''
     baidu: ''
-
-theme_day: forest
-theme_night: forest
-font: quicksand
 
 # Site header
 header:
