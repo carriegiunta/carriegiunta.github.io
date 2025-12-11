@@ -32,13 +32,21 @@ sections:
       subtitle: ""
       text: |
         
-        This is **markdown content** that you can edit.
+        Book:
         
         - Nancy and Visual Culture | Carrie Giunta and Adrienne Janus (eds) | Edinburgh University Press | Edinburgh University Press | 2016
-      link: https://edinburghuniversitypress.com/book-nancy-and-visual-culture.html
-        - Add links
-        - Format text
-        
+          url: https://edinburghuniversitypress.com/book-nancy-and-visual-culture.html
+    
+        Articles:
+        - L’étrangèreté et l’évidence de l’absence d’évidence dans Outlandish: Étranges Corps Étrangers de Phillip Warnell et Jean-Luc Nancy | Nancynéma | edited by Marie Martin and Antoine de Baecque | UGA Éditions | forthcoming 2026
+          url: ""
+        - Flowing along endlessly: Banana Yoshimoto's female protagonists and water's guiding force | Women and Water in Global Fiction | edited by  Emma Staniland | Routledge | 2023
+          url: https://www.routledge.com/Women-and-Water-in-Global-Fiction/Staniland/p/book/9781032417141
+        - This is what climate change looks like: McKenzie Wark's post-literary critiques give equal value to participation | CounterText special issue 'The Mimetic Condition' | Edinburgh University Press | 2022
+          url: (https://www.euppublishing.com/doi/abs/10.3366/count.2022.0264)
+
+        - A Question of Listening: Nancean resonance, return and relation in Charlie Chaplin | Nancy and Visual Culture | Edinburgh University Press | 2016
+    
         [Learn more](https://example.com)
     design:
       columns: "1"
