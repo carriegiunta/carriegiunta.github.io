@@ -33,7 +33,10 @@ sections:
       text: |
         Book:  
         - Nancy and Visual Culture | Carrie Giunta and Adrienne Janus (eds) | Edinburgh University Press | Edinburgh University Press | 2016
-    
+      link:
+          text: "Read more"
+          url: "https://edinburghuniversitypress.com/book-nancy-and-visual-culture.html"
+      text: |   
         Articles:
         - L’étrangèreté et l’évidence de l’absence d’évidence dans Outlandish: Étranges Corps Étrangers de Phillip Warnell et Jean-Luc Nancy | Nancynéma | edited by Marie Martin and Antoine de Baecque | UGA Éditions | forthcoming 2026
         - Flowing along endlessly: Banana Yoshimoto's female protagonists and water's guiding force | Women and Water in Global Fiction | edited by  Emma Staniland | Routledge | 2023
