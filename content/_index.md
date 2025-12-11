@@ -33,6 +33,7 @@ sections:
       text: |
         Book:  
         - Nancy and Visual Culture | Carrie Giunta and Adrienne Janus (eds) | Edinburgh University Press | Edinburgh University Press | 2016
+
         Articles:
         - L’étrangèreté et l’évidence de l’absence d’évidence dans Outlandish: Étranges Corps Étrangers de Phillip Warnell et Jean-Luc Nancy | Nancynéma | edited by Marie Martin and Antoine de Baecque | UGA Éditions | forthcoming 2026
         - Flowing along endlessly: Banana Yoshimoto's female protagonists and water's guiding force | Women and Water in Global Fiction | edited by  Emma Staniland | Routledge | 2023
@@ -42,6 +43,7 @@ sections:
         - Community in Fragments: Reading relation in the fragments of Heraclitus | Global Community?  Rowman & Littlefield | 2015
         - The Early Development of Sound in Hollywood Cinema |Directory of World Cinema: American Hollywood Vol. 2 | Intellect Books | 2013
         - United Artists | Directory of World Cinema: American Independent Vol. 2 | Intellect Books | 2013
+
         Reviews:
         - The Future of Whiteness by Linda Alcoff Martín | Times Literary Supplement | 8 January 2016
         - The universal is back | 'About Europe: Philosophical hypotheses' by Denis Guénoun | Radical Philosophy  vol 192 | 2015
