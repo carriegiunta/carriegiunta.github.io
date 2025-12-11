@@ -33,9 +33,6 @@ sections:
       text: |
         Book:  
         - Nancy and Visual Culture | Carrie Giunta and Adrienne Janus (eds) | Edinburgh University Press | Edinburgh University Press | 2016
-      button:
-        text: "Click Here"
-        url: "https://edinburghuniversitypress.com/book-nancy-and-visual-culture.html"
     
         Articles:
         - L’étrangèreté et l’évidence de l’absence d’évidence dans Outlandish: Étranges Corps Étrangers de Phillip Warnell et Jean-Luc Nancy | Nancynéma | edited by Marie Martin and Antoine de Baecque | UGA Éditions | forthcoming 2026
