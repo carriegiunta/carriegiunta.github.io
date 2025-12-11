@@ -26,19 +26,21 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
 
-  - block: collection
-    id: publications
+  - block: markdown
     content:
-      title: Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
+      title: "Publications"
+      subtitle: ""
+      text: |
+        
+        This is **markdown content** that you can edit.
+        
+        - Create lists
+        - Add links
+        - Format text
+        
+        [Learn more](https://example.com)
     design:
-      view: citation
-      card:
-        # Card background color (CSS class)
-        css_class: 'bg-primary-300 dark:bg-primary-700'
-        css_style: ''
+      columns: "1"
+      background:
+        color: "white"
 ---
