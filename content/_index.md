@@ -33,7 +33,7 @@ sections:
       text: |
         Book:  
         - Nancy and Visual Culture | Carrie Giunta and Adrienne Janus (eds) | Edinburgh University Press | Edinburgh University Press | 2016
-      link:
+        link:
           text: "Read more"
           url: "https://edinburghuniversitypress.com/book-nancy-and-visual-culture.html"
         Articles:
