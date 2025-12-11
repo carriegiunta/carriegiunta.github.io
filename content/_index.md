@@ -34,7 +34,8 @@ sections:
         
         This is **markdown content** that you can edit.
         
-        - Create lists
+        - Nancy and Visual Culture | Carrie Giunta and Adrienne Janus (eds) | Edinburgh University Press | Edinburgh University Press | 2016
+      link: https://edinburghuniversitypress.com/book-nancy-and-visual-culture.html
         - Add links
         - Format text
         
