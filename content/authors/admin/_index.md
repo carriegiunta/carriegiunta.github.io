@@ -40,6 +40,9 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-1176-3153
     label: Orcid
+  - icon: brands/googlescholar
+    url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=Carrie+Giunta&btnG=
+    label: Scholar
   - icon: brands/telegram
     url: https://t.me/carriegiunta
     label: Telegram
