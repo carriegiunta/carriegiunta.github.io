@@ -34,20 +34,19 @@ sections:
         
         Book:
         
-        - Nancy and Visual Culture | Carrie Giunta and Adrienne Janus (eds) | Edinburgh University Press | Edinburgh University Press | 2016
-          url: https://edinburghuniversitypress.com/book-nancy-and-visual-culture.html
+        - [Nancy and Visual Culture] (https://edinburghuniversitypress.com/book-nancy-and-visual-culture.html) | Carrie Giunta and Adrienne Janus (eds) | Edinburgh University Press | Edinburgh University Press | 2016
     
         Articles:
         - L’étrangèreté et l’évidence de l’absence d’évidence dans Outlandish: Étranges Corps Étrangers de Phillip Warnell et Jean-Luc Nancy | Nancynéma | edited by Marie Martin and Antoine de Baecque | UGA Éditions | forthcoming 2026
           url: ""
-        - Flowing along endlessly: Banana Yoshimoto's female protagonists and water's guiding force | Women and Water in Global Fiction | edited by  Emma Staniland | Routledge | 2023
-          url: https://www.routledge.com/Women-and-Water-in-Global-Fiction/Staniland/p/book/9781032417141
-        - This is what climate change looks like: McKenzie Wark's post-literary critiques give equal value to participation | CounterText special issue 'The Mimetic Condition' | Edinburgh University Press | 2022
-          url: (https://www.euppublishing.com/doi/abs/10.3366/count.2022.0264)
-
-        - A Question of Listening: Nancean resonance, return and relation in Charlie Chaplin | Nancy and Visual Culture | Edinburgh University Press | 2016
+        - [Flowing along endlessly: Banana Yoshimoto's female protagonists and water's guiding force] (https://www.routledge.com/Women-and-Water-in-Global-Fiction/Staniland/p/book/9781032417141)| Women and Water in Global Fiction | edited by  Emma Staniland | Routledge | 2023
+        - [This is what climate change looks like: McKenzie Wark's post-literary critiques give equal value to participation] (https://www.euppublishing.com/doi/abs/10.3366/count.2022.0264) | CounterText special issue 'The Mimetic Condition' | Edinburgh University Press | 2022
+        - [A Question of Listening: Nancean resonance, return and relation in Charlie Chaplin] (http://philpapers.org/archive/GIUAQO.pdf) | Nancy and Visual Culture | Edinburgh University Press | 2016
+        - [Jean-Luc Nancy and the Harlem Tiger] (https://euppublishingblog.com/2016/06/24/nancy-and-the-harlem-tiger) | Edinburgh University Press blog | June 2016
+        - [Community in Fragments: Reading relation in the fragments of Heraclitus] (http://philpapers.org/archive/GIUCIF.pdf) | Global Community?  Rowman & Littlefield | 2015
+        - The Early Development of Sound in Hollywood Cinema |Directory of World Cinema: American Hollywood Vol. 2 | Intellect Books | 2013
+        - United Artists | Directory of World Cinema: American Independent Vol. 2 | Intellect Books | 2013
     
-        [Learn more](https://example.com)
     design:
       columns: "1"
       background:
