@@ -1,4 +1,9 @@
 ---
+design:
+  spacing:
+    # Top, Right, Bottom, Left
+    padding: ['20px', '0', '0', '0']
+  css_class: 'my-custom-class'
 # Display name
 title: Carrie Giunta
 name_size: M
