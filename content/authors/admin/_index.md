@@ -34,13 +34,13 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: envelope
     url: 'mailto:carrie.giunta@protonmail.com'
     label: E-mail
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-1176-3153
     label: Orcid
-  - icon: academicons/google-scholar
+  - icon: academic-cap
     url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=Carrie+Giunta&btnG=
     label: Scholar
   - icon: brands/telegram
