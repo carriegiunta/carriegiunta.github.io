@@ -7,7 +7,8 @@ design:
       # Default section spacing
   spacing: '6rem'
   
-geometry: margin=2cm
+geometry: 
+  margin: 2cm
 sections:
   - block: resume-biography
     content:
