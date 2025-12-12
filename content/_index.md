@@ -58,14 +58,14 @@ sections:
       background:
         color: "white"    
   - block: resume-experience
-    content: ""
+    content:
       title: "Current Role"
-      items: ""
+      items:
         - title: "Associate Lecturer"
           company: "Central Saint Martins, University of the Arts London"
           location: "London, UK"
-          date_start: ""
-          date_end: ""
+          date_start:
+          date_end:
           description: |
             * postgraduate seminars in philosophy
             * MRes Art: Theory and Philosophy
@@ -73,8 +73,8 @@ sections:
         - title: "Associate Lecturer"
           company: "London College of Communication, University of the Arts London"
           location: "London, UK"
-          date_start: ""
-          date_end: ""
+          date_start:
+          date_end:
           description: |
             * BA (Hons) Sound Arts course
             * supervising and assessing final year project work
