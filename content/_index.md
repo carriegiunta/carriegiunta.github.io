@@ -60,8 +60,7 @@ sections:
   - block: markdown
     content:
       title: "Current Role"
-      text: |
-        Associate Lecturer
+      text: | Associate Lecturer
     Central Saint Martins, University of the Arts London
             * postgraduate seminars in philosophy
             * MRes Art: Theory and Philosophy
