@@ -65,7 +65,7 @@ sections:
             * postgraduate seminars in philosophy
             * MRes Art: Theory and Philosophy
             * advise students on their final dissertation writing
-      text: |
+
         Associate Lecturer at London College of Communication, University of the Arts London
             * BA (Hons) Sound Arts course
             * supervising and assessing final year project work
