@@ -24,7 +24,6 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-        padding: ['10px', '0', '0', '0']
 
   - block: markdown
     content:
@@ -59,4 +58,29 @@ sections:
       columns: "1"
       background:
         color: "white"
+
+- block: resume-experience
+    content:
+      title: "Current Role"
+      items:
+        - title: "Associate Lecturer"
+          company: "Central Saint Martins, University of the Arts London"
+          location: "London, UK"
+          date_start: ""
+          date_end: ""
+          description: |
+            * postgraduate seminars in philosophy
+            * MRes Art: Theory and Philosophy
+            * advise students on their final dissertation writing
+        - title: "Associate Lecturer"
+          company: "London College of Communication, University of the Arts London"
+          location: "London, UK"
+          date_start: ""
+          date_end: ""
+          description: |
+            * BA (Hons) Sound Arts course
+            * supervising and assessing final year project work
+            * seminars on sound design for film
+    design:
+      columns: "1"
 ---
