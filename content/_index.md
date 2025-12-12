@@ -59,10 +59,10 @@ sections:
       background:
         color: "white"
 
-- block: resume-experience
-    content:
+  - block: resume-experience
+    content: ""
       title: "Current Role"
-      items:
+      items: ""
         - title: "Associate Lecturer"
           company: "Central Saint Martins, University of the Arts London"
           location: "London, UK"
