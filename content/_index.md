@@ -57,7 +57,7 @@ sections:
       columns: "1"
       background:
         color: "white"    
-  - block: resume-experience
+  - block: markdown
     content:
       title: "Current Role"
       items:
