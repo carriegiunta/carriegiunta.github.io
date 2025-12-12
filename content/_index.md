@@ -54,10 +54,7 @@ sections:
         - Film review | Directory of World Cinema: American Hollywood Vol. 1  Intellect Books | 2011 (Jarhead)
         - Beyond the Soundtrack: representing music in cinema | Historical Journal of Film, Radio and Television | 2010
     
-    design:
-      columns: "1"
-      background:
-        color: "white"
+    
   - block: resume-experience
     content: ""
       title: "Current Role"
