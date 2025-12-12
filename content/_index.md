@@ -56,7 +56,6 @@ sections:
     design:
       columns: "1"
       background:
-        color: "white"
   - block: resume-experience
     content: ""
       title: "Current Role"
