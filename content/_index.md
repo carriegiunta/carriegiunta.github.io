@@ -4,11 +4,9 @@ date: 2022-10-24
 type: landing
 
 design:
-  spacing:
-    # Top, Right, Bottom, Left
-    padding: ['-20px', '0', '0', '0']
-  css_class: 'my-custom-class'
-  
+      # Default section spacing
+  spacing: '6rem'
+geometry: margin_top=1in 
 sections:
   - block: resume-biography
     content:
