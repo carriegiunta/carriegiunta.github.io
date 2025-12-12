@@ -61,12 +61,14 @@ sections:
     content:
       title: "Current Role"
       subtitle: "Associate Lecturer"
-      text: | "Central Saint Martins, University of the Arts London"
+      text: |
+        Central Saint Martins, University of the Arts London
             * postgraduate seminars in philosophy
             * MRes Art: Theory and Philosophy
             * advise students on their final dissertation writing
       subtitle: "Associate Lecturer"
-      text: | "London College of Communication, University of the Arts London"
+      text: |
+        London College of Communication, University of the Arts London
             * BA (Hons) Sound Arts course
             * supervising and assessing final year project work
             * seminars on sound design for film
