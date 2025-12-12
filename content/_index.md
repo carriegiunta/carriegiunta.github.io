@@ -52,9 +52,7 @@ sections:
         - The First Hollywood: Florida and the Golden Age of Silent Filmmaking by Shawn C Bean | Film-Philosophy  vol 17 | 2013
         - Encyclopedia of Early Cinema edited by Richard Abel | Film-Philosophy | vol 15 | 2011
         - Film review | Directory of World Cinema: American Hollywood Vol. 1  Intellect Books | 2011 (Jarhead)
-        - Beyond the Soundtrack: representing music in cinema | Historical Journal of Film, Radio and Television | 2010
-    
-    
+        - Beyond the Soundtrack: representing music in cinema | Historical Journal of Film, Radio and Television | 2010  
   - block: resume-experience
     content: ""
       title: "Current Role"
