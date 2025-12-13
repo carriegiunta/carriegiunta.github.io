@@ -8,12 +8,12 @@ main:
     url: /
     weight: 10
     color: #00008b
-  - name: Publications
-    url: /#publications
-    weight: 11
-    color: #00008b
   - name: Teaching
     url: /#teaching
+    weight: 11
+    color: #00008b
+  - name: Publications
+    url: /#publications
     weight: 12
     color: #00008b
   - name: Film
