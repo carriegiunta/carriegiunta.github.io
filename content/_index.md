@@ -63,13 +63,13 @@ sections:
       subtitle: ""
       text: |
         Associate Lecturer at Central Saint Martins, University of the Arts London
-            - postgraduate seminars in philosophy
-            - MRes Art: Theory and Philosophy
-            - advise students on their final dissertation writing
+        - postgraduate seminars in philosophy
+        - MRes Art: Theory and Philosophy
+        - advise students on their final dissertation writing
 
         Associate Lecturer at London College of Communication, University of the Arts London
-            - BA (Hons) Sound Arts course
-            - supervising and assessing final year project work
+         - BA (Hons) Sound Arts course
+         - supervising and assessing final year project work
             - seminars on sound design for film
     design:
       columns: "1"
