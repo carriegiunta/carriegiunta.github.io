@@ -23,11 +23,32 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+
+  - block: features
+    content: 
+      title: "Recent Publications"
+      text: ""
+      items:
+        - name: "L’étrangèreté et l’évidence de l’absence d’évidence dans Outlandish: Étranges Corps Étrangers de Phillip Warnell et Jean-Luc Nancy"
+          description: "Nancynéma | edited by Marie Martin and Antoine de Baecque | UGA Éditions | forthcoming 2026"
+          icon: "hero/book-open"
+        - name: "Flowing along endlessly: Banana Yoshimoto's female protagonists and water's guiding force"
+          description: "Women and Water in Global Fiction | edited by  Emma Staniland | Routledge | 2023"
+          icon: "hero/book-open"
+        - name: "This is what climate change looks like: McKenzie Wark's post-literary critiques give equal value to participation"
+          description: "CounterText special issue 'The Mimetic Condition' | Edinburgh University Press | 2022"
+          icon: "hero/book-open"
+        - name: "[See all publications...](https://example.com)"
+    design:
+      columns: "3"
+      background:
+        color: "white"  
+    
   - block: features
     content: ""
-    title: "Teaching"
-    text: ""
-    items:
+      title: "Teaching"
+      text: ""
+      items:
         - name: "Central Saint Martins, University of the Arts London"
           description: "Teaching postgraduate seminars in Philosophy on the MRes Art: Theory and Philosophy course and advising students on their dissertation and essay writing"
           icon: "hero/building-library"
@@ -56,24 +77,4 @@ sections:
       columns: "3"
       background:
         color: "white"
-
-  - block: features
-    content: 
-      title: "Recent Publications"
-      text: ""
-      items:
-        - name: "L’étrangèreté et l’évidence de l’absence d’évidence dans Outlandish: Étranges Corps Étrangers de Phillip Warnell et Jean-Luc Nancy"
-          description: "Nancynéma | edited by Marie Martin and Antoine de Baecque | UGA Éditions | forthcoming 2026"
-          icon: "hero/book-open"
-        - name: "Flowing along endlessly: Banana Yoshimoto's female protagonists and water's guiding force"
-          description: "Women and Water in Global Fiction | edited by  Emma Staniland | Routledge | 2023"
-          icon: "hero/book-open"
-        - name: "This is what climate change looks like: McKenzie Wark's post-literary critiques give equal value to participation"
-          description: "CounterText special issue 'The Mimetic Condition' | Edinburgh University Press | 2022"
-          icon: "hero/book-open"
-        - name: "[See all publications...](https://example.com)"
-    design:
-      columns: "3"
-      background:
-        color: "white"  
 ---
