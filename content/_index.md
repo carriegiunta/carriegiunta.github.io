@@ -43,6 +43,7 @@ sections:
       columns: "1"
       background:
         color: "white"
+ 
   - block: features
     content: ""
       title: "Teaching"
@@ -61,6 +62,7 @@ sections:
       columns: "1"
       background:
         color: "white"
+
   - block: features
     content:
       title: "Sound Design"
