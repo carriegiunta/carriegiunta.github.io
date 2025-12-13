@@ -9,7 +9,7 @@ main:
     weight: 10
     color: #00008b
   - name: Teaching
-    url: "/#features"
+    url: "/#teaching"
     weight: 11
     color: #00008b
   - name: Publications
