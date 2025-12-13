@@ -37,25 +37,18 @@ sections:
         - name: "South, West and Wales Doctoral Training Partnership, Bristol, UK"
           description: "External Reader on training exercise for doctoral students, providing feedback and advice on student writing"
           icon: "hero/building-library"
-    view: compact
     design:
       columns: "1"
       background:
         color: "white"
-  - block: features
+  - block: markdown
     content:
       title: "Sound Design"
-      text:
-      items:
-        - name: "London"
-          description: ""
-          icon: "film"
-        - name: "New York"
-          description: ""
-          icon: "film"
-        - name: "Teaching"
-          description: ""
-          icon: "film"
+      text: |
+        - London
+          icon: "hero/film"
+        - New York
+          icon: "hero/film"
     design:
       columns: "1"
       background:
