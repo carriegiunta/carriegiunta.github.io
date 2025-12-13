@@ -43,7 +43,6 @@ sections:
       columns: "3"
       background:
         color: "white"  
-    
   - block: features
     content: ""
       title: "Teaching"
