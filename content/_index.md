@@ -13,7 +13,15 @@ sections:
       title: ""
       subtitle: ""
       text: |
-        Carrie Giunta is an associate lecturer at the University of the Arts London (UAL). She teaches Philosophy at Central Saint Martins, UAL on the MRes Art: Theory and Philosophy course, and on the BA Sound Arts course at London College of Communications,UAL. She holds a doctorate in Philosophy from the University of Dundee. In 2016, Carrie co-edited the book Nancy and Visual Culture (Edinburgh University Press). She is a member of the Society for Women in Philosophy UK, the Society for Women in Philosophy Italia and the Society for French Studies. Her forthcoming publications include an essay in the edited volume Nancynéma, published by UGA Éditions. Between 1995 and 2009 Carrie worked in cinema as a sound editor and was part of the BAFTA-winning sound team on Casino Royale.
+        I am an Associate Lecturer at University of the Arts London across two colleges and disciplines: 
+        - I teach Philosophy at Central Saint Martins
+        - and I teach Sound Design for the Moving Image at London College of Communication
+My PhD in Philosophy was funded by a doctoral grant from the Royal Society of Edinburgh’s Research Network Award for the Arts and Humanities. 
+
+I co-edited the book Nancy and Visual Culture, published by Edinburgh University Press. My forthcoming publications include an essay in the edited volume Nancynéma, published by UGA Éditions. 
+
+Between 1995 and 2009 I worked in New York and London as a Sound Editor and was part of the BAFTA-winning sound team on Casino Royale.
+
       
     design:
       # Apply a gradient background
