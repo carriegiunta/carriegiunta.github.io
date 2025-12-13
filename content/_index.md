@@ -31,7 +31,7 @@ sections:
       items:
         - name: "Central Saint Martins, University of the Arts London"
           description: "Teaching postgraduate seminars in philosophy on the MRes Art: Theory and Philosophy course and advising students on their dissertation and essay writing"
-          icon: "philosophy"
+          icon: "hero/building-library"
         - name: "London College of Communication, University of the Arts London"
           description: "Teaching seminars on sound design for moving image on the BA Sound Arts course, and supervising and assessing final year projects"
           icon: "hero/building-library"
@@ -39,7 +39,7 @@ sections:
           description: "External reader on training exercise for doctoral students, providing feedback and advice on student writing"
           icon: "hero/building-library"
     design:
-      columns: "3"
+      columns: ""
       background:
         color: "white"
   - block: markdown
