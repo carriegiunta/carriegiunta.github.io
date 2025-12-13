@@ -42,7 +42,8 @@ sections:
     design:
       columns: "3"
       background:
-        color: "white"  
+        color: "white"
+
   - block: features
     content: ""
       title: "Teaching"
