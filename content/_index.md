@@ -25,7 +25,8 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: features
     content:
-      title: "Current Role"
+      title: ""
+      subtitle: "Current Role"
       text: ""
       items:
         - name: "Central Saint Martins, University of the Arts London"
@@ -43,7 +44,8 @@ sections:
         color: "white"
   - block: features
     content:
-      title: "Sound Design"
+      title: ""
+      subtitle: "Sound Design"
       text: ""
       items:
         - name: "London"
