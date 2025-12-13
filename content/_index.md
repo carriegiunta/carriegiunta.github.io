@@ -41,7 +41,6 @@ sections:
         - name: "[See all publications...](https://example.com)"
     design:
       columns: "3"
-
   - block: features
     content: ""
       title: "Teaching"
