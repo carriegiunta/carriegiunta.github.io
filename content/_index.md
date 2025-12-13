@@ -25,7 +25,8 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: features
     content:
-      title: "Current Role"
+      title: ""
+      text: "Current Role"
       text: "Associate Lecturer"
       items:
         - name: "Central Saint Martins, University of the Arts London"
@@ -41,6 +42,24 @@ sections:
       columns: ""
       background:
         color: "white"
+  - block: features
+    content:
+      title: ""
+      text: "Sound Design"
+      items:
+        - name: "London"
+          description: ""
+          icon: "film"
+        - name: "New York"
+          description: ""
+          icon: "film"
+        - name: "Teaching"
+          description: ""
+          icon: "film"
+    design:
+      columns: "3"
+      background:
+        color: "white"    
   - block: markdown
     content:
       title: "Publications"
