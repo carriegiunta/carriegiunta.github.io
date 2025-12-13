@@ -43,8 +43,8 @@ sections:
         color: "white"
   - block: features
     content:
-      title: ""
-      text: "Sound Design"
+      title: "Sound Design"
+      text: ""
       items:
         - name: "London"
           description: ""
