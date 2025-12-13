@@ -58,7 +58,7 @@ sections:
         color: "white"
 
   - block: features
-    content: "publications"
+    content: 
       title: "Recent Publications"
       text: ""
       items:
