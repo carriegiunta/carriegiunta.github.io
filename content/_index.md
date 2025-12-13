@@ -35,8 +35,8 @@ sections:
         - name: "London College of Communication, University of the Arts London"
           description: "Teaching seminars on sound design for moving image on the BA Sound Arts course, and supervising and assessing final year projects"
           icon: "hero/building-library"
-        - name: "South, West and Wales Doctoral Training Partnership"
-          description: "External reader on training exercise for doctoral students"
+        - name: "South, West and Wales Doctoral Training Partnership, Bristol, UK"
+          description: "External reader on training exercise for doctoral students, providing feedback and advice on student writing"
           icon: "hero/building-library"
     design:
       columns: "3"
