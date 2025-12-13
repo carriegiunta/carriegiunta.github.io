@@ -59,7 +59,8 @@ sections:
         color: "white"    
   - block: hero
     content:
-      title: "Current Role"
+      title: ""
+      subtitle: "Current Role"
       text: |
         Associate Lecturer at Central Saint Martins, University of the Arts London
             * postgraduate seminars in philosophy
