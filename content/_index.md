@@ -39,8 +39,7 @@ sections:
           description: "CounterText special issue 'The Mimetic Condition' | Edinburgh University Press | 2022"
           icon: "hero/book-open"
         - name: "[See all publications...](https://example.com)"
-    design:
-      columns: "3"
+
   - block: features
     content: ""
       title: "Teaching"
