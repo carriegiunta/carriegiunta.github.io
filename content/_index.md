@@ -36,7 +36,9 @@ sections:
           description: "Teaching seminars on sound design for moving image on the BA Sound Arts course, and supervising and assessing final year projects"
           icon: "hero/building-library"
     design:
-      columns: "1"
+      columns: "2"
+      background:
+        color: "gray-50"
   - block: markdown
     content:
       title: "Publications"
