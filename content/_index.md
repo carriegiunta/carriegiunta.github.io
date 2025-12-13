@@ -38,7 +38,7 @@ sections:
           description: "External Reader on training exercise for doctoral students, providing feedback and advice on student writing"
           icon: "hero/building-library"
     design:
-      columns: ""
+      columns: "1"
       background:
         color: "white"
   - block: features
@@ -56,7 +56,7 @@ sections:
           description: ""
           icon: "film"
     design:
-      columns: "3"
+      columns: "1"
       background:
         color: "white"    
   - block: markdown
