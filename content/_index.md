@@ -22,9 +22,21 @@ sections:
         color: #ffffff
       # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-
+  - block: features
+    content:
+      title: "Current Role"
+      text: "Associate Lecturer"
+      items:
+        - name: "Central Saint Martins, University of the Arts London"
+          description: "Teaching postgraduate seminars in philosophy on the MRes Art: Theory and Philosophy course and advising students on their dissertation and essay writing"
+          icon: "hero/building-library"
+        - name: "London College of Communication, University of the Arts London"
+          description: "Teaching seminars on sound design for moving image on the BA Sound Arts course, and supervising and assessing final year projects"
+          icon: "hero/building-library"
+    design:
+      columns: "1"
   - block: markdown
     content:
       title: "Publications"
@@ -57,17 +69,4 @@ sections:
       columns: "1"
       background:
         color: "white"    
-  - block: features
-    content:
-      title: "Current Role"
-      text: "Associate Lecturer"
-      items:
-        - name: "Central Saint Martins, University of the Arts London"
-          description: "Teaching postgraduate seminars in philosophy on the MRes Art: Theory and Philosophy course and advising students on their dissertation and essay writing"
-          icon: "hero/building-library"
-        - name: "London College of Communication, University of the Arts London"
-          description: "Teaching seminars on sound design for moving image on the BA Sound Arts course, and supervising and assessing final year projects"
-          icon: "hero/building-library"
-    design:
-      columns: "1"
 ---
