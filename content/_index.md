@@ -60,13 +60,17 @@ sections:
   - block: features
     content:
       title: "Recent Publications"
-      subtitle: ""
       text: ""
-        
-        Articles:
-        - L’étrangèreté et l’évidence de l’absence d’évidence dans Outlandish: Étranges Corps Étrangers de Phillip Warnell et Jean-Luc Nancy | Nancynéma | edited by Marie Martin and Antoine de Baecque | UGA Éditions | forthcoming 2026
-        - Flowing along endlessly: Banana Yoshimoto's female protagonists and water's guiding force | Women and Water in Global Fiction | edited by  Emma Staniland | Routledge | 2023
-        - This is what climate change looks like: McKenzie Wark's post-literary critiques give equal value to participation | CounterText special issue 'The Mimetic Condition' | Edinburgh University Press | 2022
+      items:
+        - name: "L’étrangèreté et l’évidence de l’absence d’évidence dans Outlandish: Étranges Corps Étrangers de Phillip Warnell et Jean-Luc Nancy"
+          description: "Nancynéma | edited by Marie Martin and Antoine de Baecque | UGA Éditions | forthcoming 2026"
+          icon: "hero/book-open"
+        - name: "Flowing along endlessly: Banana Yoshimoto's female protagonists and water's guiding force"
+          description: "Women and Water in Global Fiction | edited by  Emma Staniland | Routledge | 2023"
+          icon: "hero/book-open"
+        - name: "This is what climate change looks like: McKenzie Wark's post-literary critiques give equal value to participation"
+          description: "CounterText special issue 'The Mimetic Condition' | Edinburgh University Press | 2022"
+          icon: "hero/book-open"
     design:
       columns: "3"
       background:
