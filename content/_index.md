@@ -61,6 +61,7 @@ sections:
     content:
       title: "Current Role"
       subtitle: ""
+      icon: hero/building-library
       text: |
         Associate Lecturer at Central Saint Martins, University of the Arts London
         - postgraduate seminars in philosophy
