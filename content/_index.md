@@ -60,18 +60,14 @@ sections:
   - block: markdown
     content:
       title: "Current Role"
-      subtitle: ""
-      icon: hero/building-library
-      text: |
-        Associate Lecturer at Central Saint Martins, University of the Arts London
-        - postgraduate seminars in philosophy
-        - MRes Art: Theory and Philosophy
-        - advise students on their final dissertation writing
-
-        Associate Lecturer at London College of Communication, University of the Arts London
-         - BA (Hons) Sound Arts course
-         - supervising and assessing final year project work
-            - seminars on sound design for film
+      text: "Associate Lecturer"
+      items:
+        - name: "Central Saint Martins, University of the Arts London"
+          description: "Teaching postgraduate seminars in philosophy on the MRes Art: Theory and Philosophy course and advising students on their dissertation and essay writing"
+          icon: "hero/building-library"
+        - name: "London College of Communication, University of the Arts London"
+          description: "Teaching seminars on sound design for moving image on the BA Sound Arts course, and supervising and assessing final year projects"
+          icon: "hero/building-library"
     design:
       columns: "1"
 ---
