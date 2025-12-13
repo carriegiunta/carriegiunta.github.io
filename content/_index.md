@@ -57,7 +57,7 @@ sections:
       columns: "1"
       background:
         color: "white"    
-  - block: hero
+  - block: markdown
     content:
       title: "Current Role"
       subtitle: ""
