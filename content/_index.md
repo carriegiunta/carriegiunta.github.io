@@ -22,7 +22,7 @@ sections:
         color: #ffffff
       # Avatar customization
       avatar:
-        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: features
     content:
@@ -38,7 +38,7 @@ sections:
     design:
       columns: "2"
       background:
-        color: "gray-50"
+        color: "white"
   - block: markdown
     content:
       title: "Publications"
