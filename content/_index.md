@@ -74,5 +74,6 @@ sections:
     design:
       columns: "3"
       background:
-        color: "white"    
+        color: "white"
+    text: [See all publications...](https://example.com)   
 ---
