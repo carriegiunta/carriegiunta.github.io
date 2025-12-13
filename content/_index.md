@@ -25,8 +25,8 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: features
     content:
-      title: ""
-      text: "Current Role"
+      title: "Current Role"
+      text: ""
       items:
         - name: "Central Saint Martins, University of the Arts London"
           description: "Teaching postgraduate seminars in Philosophy on the MRes Art: Theory and Philosophy course and advising students on their dissertation and essay writing"
