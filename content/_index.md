@@ -1,6 +1,6 @@
 ---
-title: ''
-date: 2022-10-24
+title: 'Carrie Giunta'
+date: 2025-12-13
 type: landing
 
 design:
@@ -24,7 +24,7 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: features
-    content:
+    content: "Teaching"
       title: "Teaching"
       text: ""
       items:
