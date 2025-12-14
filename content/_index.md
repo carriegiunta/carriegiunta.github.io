@@ -1,6 +1,6 @@
 ---
-title: 'Carrie Giunta'
-date: 2025-12-13
+title: ''
+date: 2022-10-24
 type: landing
 
 design:
@@ -46,9 +46,9 @@ sections:
  
   - block: features
     content: ""
-    title: "Teaching"
-    text: ""
-    items:
+      title: "Teaching"
+      text: ""
+      items:
         - name: "Central Saint Martins, University of the Arts London"
           description: "Teaching postgraduate seminars in Philosophy on the MRes Art: Theory and Philosophy course and advising students on their dissertation and essay writing"
           icon: "hero/building-library"
