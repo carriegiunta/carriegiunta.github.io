@@ -30,7 +30,7 @@ sections:
       text: ""
       items:
         - name: "Book chapter"
-          description: ""L’étrangèreté et l’évidence de l’absence d’évidence dans Outlandish: Étranges Corps Étrangers de Phillip Warnell et Jean-Luc Nancy" |in Nancynéma | edited by Marie Martin and Antoine de Baecque | UGA Éditions | forthcoming 2026"
+          description: "L’étrangèreté et l’évidence de l’absence d’évidence dans Outlandish: Étranges Corps Étrangers de Phillip Warnell et Jean-Luc Nancy |in Nancynéma | edited by Marie Martin and Antoine de Baecque | UGA Éditions | forthcoming 2026"
           icon: "hero/book-open"
         - name: "Book chapter"
           description: "Flowing along endlessly: Banana Yoshimoto's female protagonists and water's guiding force | in Women and Water in Global Fiction | edited by Emma Staniland | Routledge | 2023"
