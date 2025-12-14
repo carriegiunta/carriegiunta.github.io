@@ -44,7 +44,7 @@ sections:
       background:
         color: "white"
   - block: features
-    content: ""
+    content:
       title: "Teaching"
       text: ""
       items:
