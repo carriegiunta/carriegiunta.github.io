@@ -76,7 +76,7 @@ sections:
         - name: ""
           description: "I cut my teeth as a sound editor at Manhattan audio post-production house Harmonic Ranch, working for New York independent filmmakers and artists."
           icon: "hero/film"
-        - name: "[See more film credits...](https://imdb.com)"
+        - name: "[See more film credits...](https://www.imdb.com/name/nm1006212/?ref_=fn_al_nm_1)"
     design:
       columns: "3"
       background:
