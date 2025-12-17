@@ -8,7 +8,7 @@ design:
   spacing: '6rem'
 sections:
   - block: resume-biograph
-  - content:
+    content:
       username: admin
       title: ""
       subtitle: ""
