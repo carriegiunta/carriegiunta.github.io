@@ -79,7 +79,7 @@ sections:
         spacing:
           padding: ["6", "6", "6", "6"]
         columns: "1"
-    - block: features
+  - block: features
     content:
       title: "Sound Design"
       text: ""
