@@ -61,7 +61,7 @@ sections:
       columns: "1"
       background:
         color: "white"
-    - block: cta-image-paragraph
+  - block: cta-image-paragraph
     content:
       items:
         -
