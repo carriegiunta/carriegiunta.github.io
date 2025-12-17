@@ -8,9 +8,7 @@ design:
   spacing: '6rem'
 sections:
   - block: resume-biography
-<div style="padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd;">
-This is a block with padding applied. You can use Markdown for content formatting, and HTML for layout and styles.
-</div>
+    <div style="padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd;"></div>
     content:
       username: admin
       title: ""
