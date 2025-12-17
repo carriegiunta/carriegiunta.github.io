@@ -9,7 +9,7 @@ design:
 sections:
   - block: resume-biography
     <div style="padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd;"></div>
-    content:
+  - content:
       username: admin
       title: ""
       subtitle: ""
