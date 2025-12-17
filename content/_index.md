@@ -50,13 +50,13 @@ sections:
         text: ""
         items:
           - name: "Book chapter"
-            description: "L’étrangèreté et l’évidence de l’absence d’évidence dans Outlandish: Étranges Corps Étrangers de Phillip Warnell et Jean-Luc Nancy |in Nancynéma | UGA Éditions | forthcoming 2026
+            description: "L’étrangèreté et l’évidence de l’absence d’évidence dans Outlandish: Étranges Corps Étrangers de Phillip Warnell et Jean-Luc Nancy |in Nancynéma | UGA Éditions | forthcoming 2026"
             icon: "hero/book-open"
           - name: "Book chapter"
-            description: "Flowing along endlessly: Banana Yoshimoto's female protagonists and water's guiding force | in Women and Water in Global Fiction | edited by Emma Staniland | Routledge | 2023
+            description: "Flowing along endlessly: Banana Yoshimoto's female protagonists and water's guiding force | in Women and Water in Global Fiction | edited by Emma Staniland | Routledge | 2023"
             icon: "hero/book-open"
           - name: "Journal article"
-            description: "This is what climate change looks like: McKenzie Wark's post-literary critiques give equal value to participation | in CounterText special issue 'The Mimetic Condition' | Edinburgh University Press | 2022
+            description: "This is what climate change looks like: McKenzie Wark's post-literary critiques give equal value to participation | in CounterText special issue 'The Mimetic Condition' | Edinburgh University Press | 2022"
             icon: "hero/book-open"
           - name: "[See all publications...](https://carriegiunta.github.io./publications/)"
       design:
