@@ -42,8 +42,6 @@ sections:
       columns: "1"
       background:
         color: "white"
-        spacing:
-          padding: ["6", "6", "6", "6"]
   - block: features
     content: 
       title: "Recent Publications"
