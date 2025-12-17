@@ -2,7 +2,6 @@
   title: ''
   date: 2022-10-24
   type: landing
-<link rel="stylesheet" href="styles.css">
   sections:
     - block: resume-biography
       content:
