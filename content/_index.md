@@ -61,34 +61,20 @@ sections:
       columns: "1"
       background:
         color: "white"
-  - block: cta-image-paragraph
-    content:
-      items:
-        -
-          name: "First Item"
-          description: "Description for first item"
-        -
-          name: "Second Item"
-          description: "Description for second item"
-    design:
-      background:
-        color: ""
-        gradient_start: "#4f46e5"
-        gradient_end: "#7c3aed"
-        text_color_light: true
-        spacing:
-          padding: ["6", "6", "6", "6"]
-        columns: "1"
+
   - block: features
     content:
       title: "Sound Design"
       text: ""
       items:
-        - name: "London"
-          description: ""
+        - name: ""
+          description: "As professional sound effects editor, Carrie worked with Britain's top sound people at Soundelux London and Twickenham Studios"
           icon: "hero/film"
-        - name: "New York"
-          description: ""
+        - name: ""
+          description: "At Elephant Ears, Inc. in Brooklyn, as supervising sound editor on independent feature and documentary films for Arte, ZDF, PBS, HBO, A&E, The Knitting Factory, and Nicholson NY, she supervised sound effects editing, music editing, foley art, and dialogue editing"
+          icon: "hero/film"
+        - name: ""
+          description: "Early on, Carrie cut her teeth as a sound editor at Manhattan audio post-production house Harmonic Ranch, working for New York independent filmmakers and artists."
           icon: "hero/film"
     design:
       columns: "3"
