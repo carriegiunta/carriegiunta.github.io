@@ -50,13 +50,13 @@ sections:
         text: ""
         items:
           - name: "Book chapter"
-            description: "L’étrangèreté et l’évidence de l’absence d’évidence dans Outlandish: Étranges Corps Étrangers de Phillip Warnell et Jean-Luc Nancy |in Nancynéma | edited by [..."
+            description: "L’étrangèreté et l’évidence de l’absence d’évidence dans Outlandish: Étranges Corps Étrangers de Phillip Warnell et Jean-Luc Nancy |in Nancynéma | UGA Éditions | forthcoming 2026
             icon: "hero/book-open"
           - name: "Book chapter"
-            description: "Flowing along endlessly: Banana Yoshimoto's female protagonists and water's guiding force | in Women and Water in Global Fiction | edited by Emma Staniland | Routledge | [..."
+            description: "Flowing along endlessly: Banana Yoshimoto's female protagonists and water's guiding force | in Women and Water in Global Fiction | edited by Emma Staniland | Routledge | 2023
             icon: "hero/book-open"
           - name: "Journal article"
-            description: "This is what climate change looks like: McKenzie Wark's post-literary critiques give equal value to participation | in CounterText special issue 'The Mimetic Condition' | [..."
+            description: "This is what climate change looks like: McKenzie Wark's post-literary critiques give equal value to participation | in CounterText special issue 'The Mimetic Condition' | Edinburgh University Press | 2022
             icon: "hero/book-open"
           - name: "[See all publications...](https://carriegiunta.github.io./publications/)"
       design:
@@ -72,10 +72,10 @@ sections:
           - name: "London"
             description: "I have had the pleasure of working with Britain's top sound people at Soundelux London and Twickenham Studios, and was part of the BAFTA-winning sound team on Casino Royale.
             icon: "hero/film"
-          - name: "New York • 1997–2003"
+          - name: "New York 1997–2003"
             description: "As a New York-based sound editor, I delivered sound effects editing, music editing, foley art, and dialogue editing for independent features and documentaries. Clients included Arte, ZDF, PDF, HBO, A&E.
             icon: "hero/film"
-          - name: "New York • 1995–97"
+          - name: "New York 1995–97"
             description: "I cut my teeth as a sound editor at Manhattan audio post-production house Harmonic Ranch, working for New York independent filmmakers and artists. Clients included: PBS, Channel 4 Films, NYU Film School.
             icon: "hero/film"
           - name: "[See more film credits...](https://www.imdb.com/name/nm1006212/?ref_=fn_al_nm_1)"
