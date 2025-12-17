@@ -1,8 +1,13 @@
 ---
-  title: ''
-  date: 2022-10-24
-  type: landing
-  sections:
+title: ''
+date: 2022-10-24
+type: landing
+
+design:
+  # Default section spacing
+  spacing: ''
+
+sections:
     - block: resume-biography
       content:
         username: admin
