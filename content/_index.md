@@ -14,7 +14,7 @@ sections:
         title: ""
         subtitle: ""
         text: |
-          I am an Associate Lecturer at University of the Arts London across two colleges and disciplines: I teach Philosophy at Central Saint Martins and I teach Sound Design for the Moving Image [...]
+          I am an Associate Lecturer at University of the Arts London across two colleges and disciplines: I teach Philosophy at Central Saint Martins and I teach Sound Design for the Moving Image at London College of Communication. 
       design:
         # Apply a gradient background
         css_class:
