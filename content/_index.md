@@ -40,10 +40,10 @@ sections:
           icon: "hero/building-library"
     design:
       columns: "1"
-      spacing:
-        padding: ["6", "6", "6", "6"]
       background:
         color: "white"
+        spacing:
+          padding: ["6", "6", "6", "6"]
   - block: features
     content: 
       title: "Recent Publications"
@@ -63,7 +63,25 @@ sections:
       columns: "1"
       background:
         color: "white"
-  - block: features
+    - block: cta-image-paragraph
+    content:
+      items:
+        -
+          name: "First Item"
+          description: "Description for first item"
+        -
+          name: "Second Item"
+          description: "Description for second item"
+    design:
+      background:
+        color: ""
+          gradient_start: "#4f46e5"
+          gradient_end: "#7c3aed"
+          text_color_light: true
+        spacing:
+          padding: ["6", "6", "6", "6"]
+        columns: "1"
+    - block: features
     content:
       title: "Sound Design"
       text: ""
