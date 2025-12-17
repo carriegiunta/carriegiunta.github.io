@@ -7,8 +7,7 @@ design:
       # Default section spacing
   spacing: '6rem'
 sections:
-  - block: resume-biography
-  <div style="padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd;"></div>
+  - block: resume-biograph
   - content:
       username: admin
       title: ""
@@ -16,6 +15,7 @@ sections:
       text: |
         I am an Associate Lecturer at University of the Arts London across two colleges and disciplines: I teach Philosophy at Central Saint Martins and I teach Sound Design for the Moving Image at London College of Communication. My PhD in Philosophy was funded by a doctoral grant from the Royal Society of Edinburgh’s Research Network Award for the Arts and Humanities. I co-edited the book Nancy and Visual Culture, published by Edinburgh University Press. My forthcoming publications include an essay in the edited volume Nancynéma, published by UGA Éditions. Between 1995 and 2009 I worked in New York and London as a Sound Editor and was part of the BAFTA-winning sound team on Casino Royale.
     design:
+      padding: 6px
       # Apply a gradient background
       css_class:
       background:
