@@ -7,7 +7,7 @@ design:
       # Default section spacing
   spacing: '6rem'
 sections:
-  - block: resume-biograph
+  - block: resume-biography
     content:
       username: admin
       title: ""
@@ -19,6 +19,7 @@ sections:
       css_class:
       background:
         color: #ffffff
+        padding: 6px
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
