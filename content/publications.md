@@ -1,8 +1,6 @@
 ---
 title: Publications
 type: landing
-cms_exclude: ''
-view: ''
 design:
   spacing: '6rem'
 sections:
