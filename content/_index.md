@@ -83,6 +83,4 @@ sections:
         columns: "3"
         background:
           color: "white"
-  ---
-
-  ---
+---
