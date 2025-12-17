@@ -6,8 +6,8 @@ view: ''
 design:
   spacing: '6rem'
 sections:
-- block
-  text: |
+  - block: markdown
+    text: |
         Book:  
         - Nancy and Visual Culture | Carrie Giunta and Adrienne Janus (eds) | Edinburgh University Press | Edinburgh University Press | 2016
         
