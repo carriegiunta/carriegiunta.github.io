@@ -1,15 +1,13 @@
 ---
 title: Publications
-cms_exclude: true
-
-# View.
-view: citation
-
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
-text: |
+type: landing
+cms_exclude: ''
+view: ''
+design:
+  spacing: '6rem'
+sections:
+  - block
+    text: |
         Book:  
         - Nancy and Visual Culture | Carrie Giunta and Adrienne Janus (eds) | Edinburgh University Press | Edinburgh University Press | 2016
         
