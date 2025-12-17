@@ -69,7 +69,7 @@ sections:
         title: "Sound Design"
         text: ""
         items:
-          - name: "London"
+          - name: "London 2003–"
             description: "I have had the pleasure of working with Britain's top sound people at Soundelux London and Twickenham Studios, and was part of the BAFTA-winning sound team on Casino Royale."
             icon: "hero/film"
           - name: "New York 1997–2003"
