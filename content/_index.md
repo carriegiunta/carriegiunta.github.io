@@ -40,6 +40,8 @@ sections:
           icon: "hero/building-library"
     design:
       columns: "1"
+      spacing:
+        padding: ["6", "6", "6", "6"]
       background:
         color: "white"
   - block: features
