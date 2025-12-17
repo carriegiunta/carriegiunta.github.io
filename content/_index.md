@@ -68,13 +68,13 @@ sections:
       text: ""
       items:
         - name: ""
-          description: "As professional sound effects editor, I worked with Britain's top sound people at Soundelux London and Twickenham Studios, and was part of the BAFTA-winning sound team on Casino Royale."
+          description: "I have had the pleasure of working with Britain's top sound people at Soundelux London and Twickenham Studios, and was part of the BAFTA-winning sound team on Casino Royale."
           icon: "hero/film"
         - name: ""
-          description: "As a New York-based sound editor, I specialised in sound effects editing, music editing, foley art, and dialogue editing for independent feature and documentary films for Arte, ZDF, PBS, HBO, and A&E."
+          description: "As a New York-based sound editor, I worked across sound effects editing, music editing, foley art, and dialogue editing for independent features and documentaries. Clients included: Arte, ZDF, PBS, HBO, A&E."
           icon: "hero/film"
         - name: ""
-          description: "I cut my teeth as a sound editor at Manhattan audio post-production house Harmonic Ranch, working for New York independent filmmakers and artists."
+          description: "I cut my teeth as a sound editor at Manhattan audio post-production house Harmonic Ranch, working for New York independent filmmakers and artists. Clients included: PBS, Channel 4 Films, NYU Film School."
           icon: "hero/film"
         - name: "[See more film credits...](https://www.imdb.com/name/nm1006212/?ref_=fn_al_nm_1)"
     design:
