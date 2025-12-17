@@ -56,7 +56,7 @@ sections:
         - name: "Journal article"
           description: "This is what climate change looks like: McKenzie Wark's post-literary critiques give equal value to participation | in CounterText special issue 'The Mimetic Condition' | Edinburgh University Press | 2022"
           icon: "hero/book-open"
-        - name: "[See all publications...](https://carriegiunta.github.io/content/publications/_index.md)"
+        - name: "[See all publications...](https://carriegiunta.github.io./publications/)"
     design:
       columns: "1"
       background:
